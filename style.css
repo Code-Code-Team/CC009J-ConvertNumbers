@@ -1,0 +1,25 @@
+*{
+    /* padding: 0;
+    width: 60%;
+    margin: auto;
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    border-radius: 0.625rem;
+    text-align: center;
+     */
+    
+    
+}
+
+.wrapper{
+    background-color: #00000050;
+    width : 80vw;
+    height : 100vh;
+    margin: auto;
+}
+*{
+    text-align: center;
+    padding: 1rem 2.5rem;
+    margin: 1rem 1rem;
+    border-radius: 1rem;
+}

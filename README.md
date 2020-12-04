@@ -6,7 +6,7 @@ You are requested to find solutions to convert binaryNumber to decimal and decim
   
 For the purpose of this code challenge, please write your own code rather than using built-in functions to convert numbers to different base systems. Here below built-in functions inJavaScript and Python:
 
-JavaScript:
+### JavaScript:
  - Binary to decimal
 ```bash
 var binNum ="11110";
@@ -22,7 +22,7 @@ console.log(binNum);
 outputs "11110"
 ```
 
-Python:
+### Python:
  - Binary to Decimal
  ```
  binNum = '0b11110'
@@ -39,7 +39,7 @@ int(binNum, 2)
 
 At the end of the this coding challenge, students will be able to;
 - Analyze a problem, identify and apply programming knowledge for appropriate solution.
-- Demonstrate their knowledge of algorithmic design principles by using JavaScript and Pythone effectively.
+- Demonstrate their knowledge of algorithmic design principles by using JavaScript and Python effectively.
 
 ## Problem Statement
 
@@ -74,7 +74,7 @@ function dec2bin(decNum) { // decNum is int type
     //returning value should be in str type.
     return null;}
 ```
-Python
+### Python
 ```py
 def dec2bin(decNum) # decNum is int type
     # returning value should be in str type.
